@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <размеры_шкафа>
+    <x>564</x>
+    <y>18</y>
+    <z>300</z>
+  </размеры_шкафа>
+  <детали>
+    <SerializableDetal>
+      <name>564х300х18</name>
+      <size>
+        <x>564</x>
+        <y>300</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <offset>
+        <x>0</x>
+        <y>0.36</y>
+        <z>0</z>
+      </offset>
+      <tekVert>6</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-1</indexOffsetDetal>
+      <indexVert>-1</indexVert>
+    </SerializableDetal>
+  </детали>
+</Project>

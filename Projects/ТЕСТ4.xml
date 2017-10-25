@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <размеры_шкафа>
+    <x>564</x>
+    <y>18</y>
+    <z>300</z>
+  </размеры_шкафа>
+  <детали>
+    <SerializableDetal>
+      <name>600х600х36</name>
+      <size>
+        <x>600</x>
+        <y>600</y>
+        <z>36</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>90</z>
+      </rotation>
+      <offset>
+        <x>-0.3</x>
+        <y>0</y>
+        <z>0.3</z>
+      </offset>
+      <tekVert>16</tekVert>
+      <Левая />
+      <Правая>
+        <string>(Зона 1) Эксцентрик 40-0(2шт.)</string>
+      </Правая>
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-1086089201720746</indexOffsetDetal>
+      <indexVert>14</indexVert>
+      <id>-1035689201720746</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>600х600х36</name>
+      <size>
+        <x>600</x>
+        <y>600</y>
+        <z>36</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.03</x>
+        <y>0.03</y>
+        <z>0.03</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <offset>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </offset>
+      <tekVert>13</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-1</indexOffsetDetal>
+      <indexVert>1</indexVert>
+      <id>-1086089201720746</id>
+    </SerializableDetal>
+  </детали>
+</Project>

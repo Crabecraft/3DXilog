@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <размеры_шкафа>
+    <x>90</x>
+    <y>720</y>
+    <z>182</z>
+  </размеры_шкафа>
+  <детали>
+    <SerializableDetal>
+      <name>720х182х18</name>
+      <size>
+        <x>720</x>
+        <y>182</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.03</x>
+        <y>0.03</y>
+        <z>0.03</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>90</z>
+      </rotation>
+      <offset>
+        <x>0</x>
+        <y>0.36</y>
+        <z>0</z>
+      </offset>
+      <tekVert>13</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-1</indexOffsetDetal>
+      <indexVert>13</indexVert>
+      <id>-186811201715221</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>бок</name>
+      <size>
+        <x>720</x>
+        <y>182</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.03</x>
+        <y>0.03</y>
+        <z>0.03</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>270</z>
+      </rotation>
+      <offset>
+        <x>-0.09</x>
+        <y>0.36</y>
+        <z>0</z>
+      </offset>
+      <tekVert>13</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-1</indexOffsetDetal>
+      <indexVert>15</indexVert>
+      <id>-690811201715221</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>щит</name>
+      <size>
+        <x>182</x>
+        <y>54</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>-0.5</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>90</y>
+        <z>0</z>
+      </rotation>
+      <offset>
+        <x>-0.018</x>
+        <y>0.72</y>
+        <z>0.091</z>
+      </offset>
+      <tekVert>19</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя>
+        <string>(Зона 1) Эксцентрик 40-128(2шт.)</string>
+      </Передняя>
+      <Задняя>
+        <string>(Зона 2) Эксцентрик 40-128(2шт.)</string>
+      </Задняя>
+      <indexOffsetDetal>-186811201715221</indexOffsetDetal>
+      <indexVert>16</indexVert>
+      <id>-1378811201715254</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>182х54х18(Clone)</name>
+      <size>
+        <x>182</x>
+        <y>54</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>0.5</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>90</y>
+        <z>180</z>
+      </rotation>
+      <offset>
+        <x>-0.018</x>
+        <y>0</y>
+        <z>0.091</z>
+      </offset>
+      <tekVert>19</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя>
+        <string>(Зона 1) Эксцентрик 40-128(2шт.)</string>
+      </Передняя>
+      <Задняя>
+        <string>(Зона 2) Эксцентрик 40-128(2шт.)</string>
+      </Задняя>
+      <indexOffsetDetal>-186811201715221</indexOffsetDetal>
+      <indexVert>18</indexVert>
+      <id>-5436811201715600</id>
+    </SerializableDetal>
+  </детали>
+</Project>
