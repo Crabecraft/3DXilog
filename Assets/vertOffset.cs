@@ -5,7 +5,7 @@ using UnityEngine;
 public class vertOffset : MonoBehaviour {
 
 	public Transform offset;
-	public long indexOffsetDetal;
+	public string indexOffsetDetal;
 	public int indexVert;
 	Detal деталь_привязки;
 
@@ -20,7 +20,8 @@ public class vertOffset : MonoBehaviour {
 
 	public void ClearIndex()
 	{
-		indexOffsetDetal = indexVert = -1;
+		indexOffsetDetal = "-1";
+			indexVert = -1;
 		offset = null;
 	}
 
@@ -32,7 +33,7 @@ public class vertOffset : MonoBehaviour {
 		for(int i=0; i < шкаф.vertex.Length;i++)
 			if(шкаф.vertex[i].transform == point)
 			{
-				indexOffsetDetal = -1;
+				indexOffsetDetal = "-1";
 				indexVert = i;
 				return;
 			}

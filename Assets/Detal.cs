@@ -46,7 +46,7 @@ public class Detal : MonoBehaviour {
 
 	public GameObject линияЛица;
 
-	public long id;
+	public string id;
 
 
 //	float timer;
@@ -61,8 +61,9 @@ public class Detal : MonoBehaviour {
 
 	public void setID()
 	{
-		if(id == 0)
-			id = long.Parse(gameObject.GetInstanceID().ToString() + DateTime.Now.ToString().Replace(":","").Replace("/","").Replace(" ","").Replace("PM","").Replace("AM","").Trim());
+		if(id == "")
+			//id = long.Parse(gameObject.GetInstanceID().ToString() + DateTime.Now.ToString().Replace(":","").Replace("/","").Replace(" ","").Replace("PM","").Replace("AM","").Trim());
+			id = System.Guid.NewGuid().ToString();
 	}
 
 
@@ -74,7 +75,7 @@ public class Detal : MonoBehaviour {
 
 		Detal detalTemp = temp.GetComponent<Detal>();
 		detalTemp.offset = tempView.transform;
-		detalTemp.id = 0;
+		detalTemp.id = "";
 		tempView.transform.localPosition = offset.localPosition;
 		tempView.transform.localRotation = offset.localRotation;
 		return detalTemp;
@@ -707,9 +708,9 @@ public class SerializableDetal{
 	public string[] Передняя;
 	public string[] Задняя;
 
-	public long indexOffsetDetal;
+	public string indexOffsetDetal;
 	public int indexVert;
-	public long id;
+	public string id;
 
 	public SerializableDetal(){}
 	public SerializableDetal StartSerializableDetal(Detal деталь)

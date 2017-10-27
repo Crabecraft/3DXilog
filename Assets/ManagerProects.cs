@@ -246,7 +246,7 @@ public class ManagerProects : MonoBehaviour {
 				continue;
 			}
 
-		    if(project.детали[i].indexOffsetDetal == -1)
+		    if(project.детали[i].indexOffsetDetal == "-1")
 			 vertoffset.offset = шкаф.vertex[project.детали[i].indexVert].transform;
 		    else
 			{

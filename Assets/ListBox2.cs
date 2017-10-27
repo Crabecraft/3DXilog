@@ -12,11 +12,11 @@ public class ListBox2 : MonoBehaviour {
 
 //	bool one_click = false;
 //	float timer_for_double_click;
-	public int ШиринаОкна;
-	public int ВысотаОкна;
+	//public int ШиринаОкна;
+	//public int ВысотаОкна;
 	public int ВысотаСтроки;
 	public string[] Items;
-
+	RectTransform rekt;
 	Rect window;
 	public int seletcItem = -1;
 	Rect[] RectItem;
@@ -62,7 +62,9 @@ public class ListBox2 : MonoBehaviour {
 
 	void Start()
 	{
-		screenPos = Camera.main.WorldToScreenPoint(transform.position);
+		screenPos = Camera.main.gameObject.GetComponentInChildren<Camera>().WorldToScreenPoint(transform.position);
+		rekt = gameObject.GetComponent<RectTransform>();
+
 	}
 
 	public void add(string value)
@@ -92,9 +94,9 @@ public class ListBox2 : MonoBehaviour {
 	{
 		RectItem = new Rect[Items.Length];
 		for(int i=0; i < Items.Length;i++)
-			RectItem[i] = new Rect(screenPos.x,Screen.height- screenPos.y+ВысотаСтроки*(i+1)- ВысотаСтроки,ШиринаОкна,ВысотаСтроки); 
+			RectItem[i] = new Rect(screenPos.x,Screen.height- screenPos.y+ВысотаСтроки*(i+1)- ВысотаСтроки,rekt.rect.width,ВысотаСтроки); 
 
-		window = new Rect(screenPos.x,Screen.height- screenPos.y,ШиринаОкна,ВысотаОкна);
+		window = new Rect(screenPos.x,Screen.height- screenPos.y,rekt.rect.width,rekt.rect.width);
 		if(Event.current.isMouse && Event.current.button == 0 && dubleClickTime <= 0)
 		{
 			Vector2 mouse = new Vector2(Input.mousePosition.x,Screen.height-Input.mousePosition.y);
