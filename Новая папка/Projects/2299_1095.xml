@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <размеры_шкафа>
+    <x>1095</x>
+    <y>2540</y>
+    <z>410</z>
+  </размеры_шкафа>
+  <детали>
+    <SerializableDetal>
+      <name>2540х410х18</name>
+      <size>
+        <x>2540</x>
+        <y>410</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.03</x>
+        <y>0.03</y>
+        <z>0.03</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>270</z>
+      </rotation>
+      <offset>
+        <x>-1.095</x>
+        <y>1.27</y>
+        <z>0</z>
+      </offset>
+      <tekVert>13</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-1</indexOffsetDetal>
+      <indexVert>15</indexVert>
+      <id>-1861026201711239</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>2540х410х18(Clone)</name>
+      <size>
+        <x>2540</x>
+        <y>410</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.03</x>
+        <y>0.03</y>
+        <z>0.03</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>90</z>
+      </rotation>
+      <offset>
+        <x>0</x>
+        <y>1.27</y>
+        <z>0</z>
+      </offset>
+      <tekVert>13</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-1</indexOffsetDetal>
+      <indexVert>13</indexVert>
+      <id>-7901026201711249</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>1059х410х18</name>
+      <size>
+        <x>1059</x>
+        <y>410</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.03</x>
+        <y>0.03</y>
+        <z>0.03</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <offset>
+        <x>-0.5475</x>
+        <y>2.54</y>
+        <z>0</z>
+      </offset>
+      <tekVert>17</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-1</indexOffsetDetal>
+      <indexVert>14</indexVert>
+      <id>-13401026201711324</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>2522х410х18</name>
+      <size>
+        <x>2522</x>
+        <y>410</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>539</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>270</z>
+      </rotation>
+      <offset>
+        <x>-1.077</x>
+        <y>0</y>
+        <z>0</z>
+      </offset>
+      <tekVert>8</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-1861026201711239</indexOffsetDetal>
+      <indexVert>1</indexVert>
+      <id>-19361026201711414</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>530х410х18</name>
+      <size>
+        <x>530</x>
+        <y>410</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>359</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <offset>
+        <x>-1.077</x>
+        <y>0</y>
+        <z>0</z>
+      </offset>
+      <tekVert>9</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-1861026201711239</indexOffsetDetal>
+      <indexVert>1</indexVert>
+      <id>-25941026201711604</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>530х410х18(Clone)</name>
+      <size>
+        <x>530</x>
+        <y>410</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>2143</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <offset>
+        <x>-1.077</x>
+        <y>0</y>
+        <z>0</z>
+      </offset>
+      <tekVert>9</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-1861026201711239</indexOffsetDetal>
+      <indexVert>1</indexVert>
+      <id>-31401026201711627</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>511х410х18</name>
+      <size>
+        <x>511</x>
+        <y>410</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>59</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <offset>
+        <x>-0.018</x>
+        <y>0</y>
+        <z>0</z>
+      </offset>
+      <tekVert>8</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-7901026201711249</indexOffsetDetal>
+      <indexVert>6</indexVert>
+      <id>-36841026201711708</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>511х410х18(Clone)</name>
+      <size>
+        <x>511</x>
+        <y>410</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>1241</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <offset>
+        <x>-0.018</x>
+        <y>0</y>
+        <z>0</z>
+      </offset>
+      <tekVert>8</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-7901026201711249</indexOffsetDetal>
+      <indexVert>6</indexVert>
+      <id>-42781026201711757</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>511х410х18(Clone)(Clone)</name>
+      <size>
+        <x>511</x>
+        <y>410</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>1563</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <offset>
+        <x>-0.018</x>
+        <y>0</y>
+        <z>0</z>
+      </offset>
+      <tekVert>8</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-7901026201711249</indexOffsetDetal>
+      <indexVert>6</indexVert>
+      <id>-47801026201711800</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>511х410х18(Clone)(Clone)(Clone)</name>
+      <size>
+        <x>511</x>
+        <y>410</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>1885</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <offset>
+        <x>-0.018</x>
+        <y>0</y>
+        <z>0</z>
+      </offset>
+      <tekVert>8</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-7901026201711249</indexOffsetDetal>
+      <indexVert>6</indexVert>
+      <id>-52821026201711808</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>511х410х18(Clone)(Clone)(Clone)(Clone)</name>
+      <size>
+        <x>511</x>
+        <y>410</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>2208</y>
+        <z>0</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <offset>
+        <x>-0.018</x>
+        <y>0</y>
+        <z>0</z>
+      </offset>
+      <tekVert>8</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-7901026201711249</indexOffsetDetal>
+      <indexVert>6</indexVert>
+      <id>-57841026201711816</id>
+    </SerializableDetal>
+    <SerializableDetal>
+      <name>511х50х18</name>
+      <size>
+        <x>511</x>
+        <y>50</y>
+        <z>18</z>
+      </size>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>1</z>
+      </position>
+      <scaleOffset>
+        <x>0.02</x>
+        <y>0.02</y>
+        <z>0.02</z>
+      </scaleOffset>
+      <rotation>
+        <x>90</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <offset>
+        <x>-0.018</x>
+        <y>0</y>
+        <z>0</z>
+      </offset>
+      <tekVert>3</tekVert>
+      <Левая />
+      <Правая />
+      <Передняя />
+      <Задняя />
+      <indexOffsetDetal>-7901026201711249</indexOffsetDetal>
+      <indexVert>6</indexVert>
+      <id>-63321026201711903</id>
+    </SerializableDetal>
+  </детали>
+</Project>
